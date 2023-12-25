@@ -1,2 +1,2 @@
-# mlm_r
-Notes for "Multilevel Modeling Using R"
+# Multilevel Modeling Using R
+Notes for "Multilevel Modeling Using   R"
